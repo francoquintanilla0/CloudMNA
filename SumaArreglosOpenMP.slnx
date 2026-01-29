@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="SumaArreglosOpenMP/SumaArreglosOpenMP.vcxproj" Id="8486875d-9ea8-4e05-9d03-587a818b8951" />
-</Solution>
